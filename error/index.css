@@ -1,0 +1,31 @@
+::selection { background-color: #000000; color: white; }
+::-moz-selection { background-color: #ffffff; color: white; }
+
+body {
+	background-color: #fff;
+    margin: 40px;
+}
+
+
+h1{
+    text-align:center;
+    margin-top: 250px;
+    font-family: 'Gill Sans';
+    left:5px;
+}
+
+
+p{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a:hover { color: rgb(17, 3, 58);
+ }
+
+ small{
+font-size:18px;
+color: rgba(169, 172, 174, 0.902);
+ }
+
+ 
